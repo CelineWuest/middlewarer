@@ -7,7 +7,7 @@ Requirements:
 - Go 1.20 or newer
 
 ```bash
-go install github.com/DominicWuest/middlewarer@latest
+go install github.com/CelineWuest/middlewarer@latest
 ```
 
 # Example

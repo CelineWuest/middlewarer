@@ -1,4 +1,4 @@
-module github.com/DominicWuest/middlewarer
+module github.com/CelineWuest/middlewarer
 
 go 1.20
 
